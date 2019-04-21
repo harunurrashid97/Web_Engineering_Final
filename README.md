@@ -9,15 +9,32 @@ IT is a repository of question solution for 10 semester student of DIU. I hope t
 
 ## Question solution demo
 
-Question 2 
+Question 2:
+
+Form.html
+
+[code](https://urlzs.com/VVKd)
+
+output demo image:
 
 ![Imgur](https://i.imgur.com/6xvAQW6.png)
 
+
 Question 3:
+
+
+Intro.html
+
+[input code](https://urlzs.com/5y3B)
 
 input image:
 
 ![Imgur](https://i.imgur.com/uFbze6Y.png)
+
+
+welcome.php
+
+[output code](https://urlzs.com/fA5e)
 
 output image:
 
