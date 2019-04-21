@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Fall-18  QUESTION:2</title>
+    <style>
+    .header{
+      text-align: center
+    }
+    .area{
+      width: 300px;
+      margin: 0px auto;
+      border: 2px ;
+      padding: 30px;
+    }
+</style>
+</head>
+  <body>
+    <div class="header">
+      <h1>Calculate Area of Parallelogram </h1>
+    </div>
+    <div class="area">
+
+    <form>
+      <p>
+        Width <input type="text" id="width">
+        <br><br>
+        Height <input type="text" id="height">
+
+      </p>
+      Area <input type="text" id="area"><br><br>
+
+      <input type="button" id="area" onclick="calculateArea()" value="calculate">
+    </form>
+
+      <!---Main solution of question ----->
+    <script>
+
+function calculateArea(width, height)
+{
+  ///The document.getElementById()method returns the element of specified id.
+    width = document.getElementById("width").value;
+    height = document.getElementById("height").value;
+    var area = width * height;
+    document.getElementById("area").value = area;
+}
+</script>
+
+</div>
+  </body>
+</html>
