@@ -3,23 +3,22 @@ IT is a repository of question solution for 10 semester student of DIU. I hope t
 
 ## Question image
 
-![](Fall18/FALL 18 (2)-page-001.jpg)
+![Imgur](https://i.imgur.com/Bsy1jZE.jpg)
 
-![](Fall18/FALL 18 (2)-page-002.jpg)
+![Imgur](https://i.imgur.com/3EZ7CBl.jpg)
 
 ## Question solution demo
 
-Question 3:
-
-![](Fall18/fall-18 q3 into.png)
-
-![](Fall18/fall-18 q3 welcome.png)
-
-
 Question 2 
 
-![](Fall18/fall-18 q2.png)
+![Imgur](https://i.imgur.com/6xvAQW6.png)
 
+Question 3:
 
+input image:
 
+![Imgur](https://i.imgur.com/uFbze6Y.png)
 
+output image:
+
+![Imgur](https://i.imgur.com/SSOBmDq.png)
